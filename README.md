@@ -43,6 +43,20 @@ By the end of this project, I will deliver:
 ### **1. Research and Planning**
 - Engage with Django Fellows and the community to determine the most critical tasks for automation.
 - Review existing workflows and Django’s CI/CD pipeline.
+  # Example GitHub Actions workflow
+name: Release Pipeline
+on:
+  release:
+    types: [published]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Changelog
+        run: python scripts/generate_changelog.py
+      - name: Publish to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
 
 ### **2. Implementation**
 - Develop **GitHub Actions** workflows to automate:
