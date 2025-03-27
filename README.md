@@ -11,7 +11,7 @@
 ---
 
 ## **Synopsis**
-The contribution workflow within Django currently involves several manual processes that are error-prone and time-consuming for contributors. This project aims to automate key parts of the workflow, such as:
+The Django contribution workflow currently relies on several manual processes that introduce inefficiencies and potential errors. This project seeks to modernize this workflow through strategic automation while providing me with valuable experience implementing production-grade CI/CD systems. The initiative will concentrate on three key areas:
 
 - **Automating releases** to streamline the deployment process.
 - **Identifying active pull requests (PRs)** to improve collaboration and efficiency.
