@@ -6,7 +6,7 @@
 - **Name:** Victor Oduor
 - **GitHub:** [OviLab-sys](https://github.com/OviLab-sys)
 - **Email:** victoroduorr@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/victor-oduor/))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/victor-oduor/)
 
 ---
 
