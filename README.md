@@ -119,9 +119,9 @@ By the end of this project, I will deliver:
 ## **Why Me?**
 ### **Relevant Skills and Experience**
 - **4+ years** in software engineering, specializing in **FastAPI, Django REST, and Laravel**.
-- Experience with **CI/CD automation**, including **GitHub Actions and Jenkins**.
-- Strong background in **backend development and scripting** for automation.
-- Passionate about **open-source contributions** and workflow improvements.
+- Want to improve my skills on **CI/CD automation**, including **GitHub Actions and Jenkins**.
+- Have a strong background in **backend development and scripting** for automation.
+- I'm passionate about **open-source contributions** and workflow improvements.
 
 ### **Key Motivation**
 My key motivation for this project is to deepen my knowledge of **CI/CD and automation using GitHub Actions and workflows** while making meaningful contributions to the Django community. By automating repetitive tasks, I aim to enhance the experience of contributors and maintainers, ensuring Django remains a leading web framework.
